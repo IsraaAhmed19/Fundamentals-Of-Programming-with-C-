@@ -137,7 +137,7 @@ const double PI = 3.14;
 | `boolean` | 1 byte  |
 
 ---
-# Task 01: Calculate Your Age
+# For Practice: Calculate Your Age
 
 Create a C++ application that takes the user's age and calculates:
 * Their age in days.
@@ -174,12 +174,3 @@ Create a C++ application that takes the user's age and calculates:
 * `||` : OR
 
 ---
-
-# Task 01: Calculate Your Age
-
-Create a C++ application that takes the user's age and calculates:
-
-* Their age in days.
-* Their age in hours.
-
-Display the results clearly.
